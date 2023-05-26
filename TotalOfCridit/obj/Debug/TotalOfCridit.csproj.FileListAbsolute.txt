@@ -1,0 +1,7 @@
+C:\Users\M.Aslani\source\repos\TotalOfCridit\TotalOfCridit\bin\Debug\TotalOfCridit.exe.config
+C:\Users\M.Aslani\source\repos\TotalOfCridit\TotalOfCridit\bin\Debug\TotalOfCridit.exe
+C:\Users\M.Aslani\source\repos\TotalOfCridit\TotalOfCridit\bin\Debug\TotalOfCridit.pdb
+C:\Users\M.Aslani\source\repos\TotalOfCridit\TotalOfCridit\obj\Debug\TotalOfCridit.csprojAssemblyReference.cache
+C:\Users\M.Aslani\source\repos\TotalOfCridit\TotalOfCridit\obj\Debug\TotalOfCridit.csproj.CoreCompileInputs.cache
+C:\Users\M.Aslani\source\repos\TotalOfCridit\TotalOfCridit\obj\Debug\TotalOfCridit.exe
+C:\Users\M.Aslani\source\repos\TotalOfCridit\TotalOfCridit\obj\Debug\TotalOfCridit.pdb
